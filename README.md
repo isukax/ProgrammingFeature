@@ -1,2 +1,11 @@
-# ProgrammingFeature
-This is my program testing environment on Visual Studio.
+# ProgrammingFeatures
+This is my C++ program testing environment on Visual Studio.
+
+## Build
+```
+> build.bat
+```
+
+## Features
+- JIT
+

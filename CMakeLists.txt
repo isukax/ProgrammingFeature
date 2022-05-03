@@ -2,7 +2,7 @@
 
 cmake_minimum_required(VERSION 3.21)
 
-set(project_name "ProgrammingFeature")
+set(project_name "ProgrammingFeatures")
 project(${project_name})
 
 # Library
